@@ -19,7 +19,7 @@ all: $(Project_NAME).bin
 	$(CC)gcc.exe -c $(INC) $(CCFLAGS) $< -o $@
 
 $(Project_NAME).elf: $(OBJ) $(ASOBJ)
-	$(CC)ld.exe -T linker_script.ld $(ASOBJ) $(OBJ) -o $@
+	$(CC)ld.exe -T linker_script.ld $(ASOBJ) $(OBJ) -o $@ -Map=$(Project_NAME).map
 
 $(Project_NAME).bin: $(Project_NAME).elf
 	$(CC)objcopy.exe -O binary $< $@
