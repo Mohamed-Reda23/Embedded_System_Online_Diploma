@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1699190609 source:c:\users\eng.mohamed\desktop\codeblocks_files\data structure\trials\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Linked_List.h"
+
+1699190335 c:\users\eng.mohamed\desktop\codeblocks_files\data structure\trials\linked_list\linked_list.h
+
+1698499749 source:c:\users\eng.mohamed\desktop\codeblocks_files\data structure\trials\linked_list\linked_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Linked_List.h"
+
