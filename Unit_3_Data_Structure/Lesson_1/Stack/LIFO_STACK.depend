@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698103884 source:c:\users\eng.mohamed\desktop\codeblocks_files\data structure\trials\lifo_stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lifo.h"
+
+1698100356 c:\users\eng.mohamed\desktop\codeblocks_files\data structure\trials\lifo_stack\lifo.h
+
+1698101912 source:c:\users\eng.mohamed\desktop\codeblocks_files\data structure\trials\lifo_stack\lifo.c
+	<stdio.h>
+	"Lifo.h"
+
