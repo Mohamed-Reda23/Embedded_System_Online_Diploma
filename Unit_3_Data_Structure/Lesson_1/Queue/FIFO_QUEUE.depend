@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698192933 source:c:\users\eng.mohamed\desktop\codeblocks_files\data structure\trials\fifo_queue\fifo_queue\fifo.c
+	<stdio.h>
+	"Fifo.h"
+
+1698184825 c:\users\eng.mohamed\desktop\codeblocks_files\data structure\trials\fifo_queue\fifo_queue\fifo.h
+
+1698192098 source:c:\users\eng.mohamed\desktop\codeblocks_files\data structure\trials\fifo_queue\fifo_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fifo.h"
+
