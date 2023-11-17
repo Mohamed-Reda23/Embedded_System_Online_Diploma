@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1699445019 source:e:\master_embedded_systems\first_term_projects\database_queue\database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"database.h"
+
+1699445022 e:\master_embedded_systems\first_term_projects\database_queue\database.h
+
+1699445058 source:e:\master_embedded_systems\first_term_projects\database_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"database.h"
+
